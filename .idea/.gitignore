@@ -4,6 +4,6 @@
 # Datasource local storage ignored files
 /../../../../../../:\Users\user\IdeaProjects\demoTest\.idea/dataSources/
 /dataSources.local.xml
-src/main/java/MapExample/configController.txt
+/src/main/java/MapExample/configController.txt
 # Editor-based HTTP Client requests
 /httpRequests/
