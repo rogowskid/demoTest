@@ -17,7 +17,7 @@ public class ControllerApi {
     Map<String, Double> currencyMap = new LinkedHashMap<>();
     private String dataToParse = null;
     public String importApiKey() throws FileNotFoundException {
-        Scanner scanner = new Scanner(new File("src/main/java/MapExample/configController.txt"));
+        Scanner scanner = new Scanner(new File("src/main/java/MapExample/controllerApiKey.txt"));
         String getapi = null;
         while (scanner.hasNextLine()) {
             getapi = scanner.nextLine();
